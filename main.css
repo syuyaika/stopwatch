@@ -1,0 +1,14 @@
+#start{
+    font-weight: bold;
+}
+#stop{
+    font-weight: bold;
+}
+#reset{
+    font-weight: bold;
+}
+
+#time{
+    margin-top: 50px;
+    font-size: 30px;
+}
